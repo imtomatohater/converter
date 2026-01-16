@@ -1,7 +1,6 @@
-# converter
-converter PCB design practice with kicad
+# PCB design practice with KiCAD
 
-[2025.08] dcdc buck converter (18V to 5V)
-[2025.11] dcdc boost converter (5v to 12v)
-
-[2026.01] dcdc buck converter (180v to 24v)
+### 🏎️ Converter
+* **[2025.08]** DC-DC Buck Converter (18V to 5V)
+* **[2025.08]** DC-DC Boost Converter (5V to 12V)
+* **[2026.01]** DC-DC Buck Converter (180V to 24V)
